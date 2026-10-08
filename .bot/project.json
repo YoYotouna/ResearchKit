@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "RSK",
+  "name": "ResearchKit",
+  "repository": "YoYotouna/ResearchKit",
+  "tracking_path": ".bot/tasks",
+  "reference_docs": [
+    "README.md",
+    "CONTRIBUTING.md",
+    "RELEASE-NOTES.md"
+  ]
+}
